@@ -1,0 +1,47 @@
+{
+	"[css]": {
+		"editor.defaultFormatter": "michelemelluso.code-beautifier"
+	},
+	"[html]": {
+		"editor.defaultFormatter": "vscode.html-language-features"
+	},
+	"[javascript]": {
+		"editor.defaultFormatter": "dbaeumer.vscode-eslint"
+	},
+	"[json]": {
+		"editor.defaultFormatter": "vscode.json-language-features"
+	},
+	"[jsonc]": {
+		"editor.defaultFormatter": "vscode.json-language-features"
+	},
+	"[less]": {
+		"editor.defaultFormatter": "michelemelluso.code-beautifier"
+	},
+	"[typescript]": {
+		"editor.defaultFormatter": "vscode.typescript-language-features"
+	},
+	"[vue]": {
+		"editor.defaultFormatter": "Vue.volar"
+	},
+	"beautify.options": {
+		"end_with_newline": true,
+		"indent_char": "\t",
+		"indent_with_tabs": true
+	},
+	"eslint.format.enable": true,
+	"files.eol": "\n",
+	"html.format.indentHandlebars": true,
+	"html.format.templating": true,
+	"html.format.wrapAttributes": "force-expand-multiline",
+	"javascript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+	"javascript.preferences.importModuleSpecifierEnding": "js",
+	"javascript.preferences.quoteStyle": "single",
+	"javascript.referencesCodeLens.enabled": true,
+	"javascript.referencesCodeLens.showOnAllFunctions": true,
+	"typescript.format.insertSpaceAfterOpeningAndBeforeClosingJsxExpressionBraces": true,
+	"typescript.preferences.includePackageJsonAutoImports": "off",
+	"typescript.referencesCodeLens.enabled": true,
+	"typescript.referencesCodeLens.showOnAllFunctions": true,
+	"typescript.suggest.completeFunctionCalls": true,
+	"vite.port": 3000
+}
